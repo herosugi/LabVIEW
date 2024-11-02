@@ -11,3 +11,10 @@ LabVIEWを使い始めました基本的なことをここにまとめます
 <P>各ショートカットキーのアクションはイベントストラクチャを使ってダイアログを使ってポップアップしています。</P>
 
 ![スクリーンショット 2024-11-02 211624](https://github.com/user-attachments/assets/f830e5ca-b968-4019-bcc7-2210f0e91f3c)
+
+## 
+
+![image](https://github.com/user-attachments/assets/06fd9cc5-5443-46c5-baad-67a2fe0ceb6c)
+
+
+![スクリーンショット 2024-11-03 081321](https://github.com/user-attachments/assets/039e86be-e702-4fb9-8bfd-5af3001e27e7)
