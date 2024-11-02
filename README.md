@@ -3,7 +3,7 @@ LabVIEWを使い始めました基本的なことをここにまとめます
 
 ## Sw_test
 <p>スイッチは６つのアクションを簡単に比較できるものを作りました。</P>
-<p>また、LabVIEWで覚えておくと便利なショートカットキーもポップアップが表示してわかるようにもしています。</P>
+<p>また、LabVIEWで覚えておくと便利なショートカットキーもポップアップが表示してわかるようにもしています。
 
 ![スクリーンショット 2024-11-02 210252](https://github.com/user-attachments/assets/c28d0454-c166-4c07-9507-7f808bf02c67)
 
@@ -15,7 +15,8 @@ LabVIEWを使い始めました基本的なことをここにまとめます
 
 ## shortcut_keys
 <p>ショートカットキーだけのVIを作りました。</p>
-![image](https://github.com/user-attachments/assets/06fd9cc5-5443-46c5-baad-67a2fe0ceb6c)
+
+![スクリーンショット 2024-11-03 081345](https://github.com/user-attachments/assets/1ad1e5db-e344-43fc-9ad8-2028eb06b84a)
 
 <p>ブロックダイヤグラムの各スイッチはフロントパネルで設定したピン配列に合わせた配列にしています。
   
