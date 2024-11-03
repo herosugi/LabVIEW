@@ -29,3 +29,7 @@ LabVIEWを使い始めました基本的なことをここにまとめます
 
 ![スクリーンショット 2024-11-03 100144](https://github.com/user-attachments/assets/a184d87e-a602-4f0b-8639-714c3d2d0922)
 
+## time_stamp
+
+![スクリーンショット 2024-11-03 194712](https://github.com/user-attachments/assets/e81187b0-ba59-4ecf-a52c-e709b0214cd2)
+
