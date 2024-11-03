@@ -18,10 +18,13 @@ LabVIEWを使い始めました基本的なことをここにまとめます
 
 ![スクリーンショット 2024-11-03 081345](https://github.com/user-attachments/assets/1ad1e5db-e344-43fc-9ad8-2028eb06b84a)
 
-<p>ブロックダイヤグラムの各スイッチはフロントパネルで設定したピン配列に合わせた配列にしています。
+<p>サブVIで使うことを意識して各スイッチをセレクターにまとめました。
   
-![スクリーンショット 2024-11-03 082238](https://github.com/user-attachments/assets/ef754d9e-ba9a-4117-a218-0ca71f907209)
+![スクリーンショット 2024-11-03 095301](https://github.com/user-attachments/assets/b9ff0bc9-bdcb-4244-8b2a-80a895cb00ce)
 
-<P>サブVIとして使えるようにピン設定をしています。</P>
+<P>メインVIでパネルを表示するときはshortcut_keysのアイコンを右クリックしてCreate Contorolを選択して接続するとメインパネル上に表示できます。</P>
+<p>サブVIで使用の時現状ポップアップは表示しません。サブVIをクリックしてshortcut_keys単体で起動させてください</p>
+<p>メインVIでポップアップさせるにはイベントストラクチャを設定してください。</p>
 
-![スクリーンショット 2024-11-03 081321](https://github.com/user-attachments/assets/039e86be-e702-4fb9-8bfd-5af3001e27e7)
+![スクリーンショット 2024-11-03 100144](https://github.com/user-attachments/assets/a184d87e-a602-4f0b-8639-714c3d2d0922)
+
