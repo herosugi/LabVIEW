@@ -22,7 +22,8 @@ LabVIEWを使い始めました基本的なことをここにまとめます
   
 ![スクリーンショット 2024-11-03 095301](https://github.com/user-attachments/assets/b9ff0bc9-bdcb-4244-8b2a-80a895cb00ce)
 
-<P>メインVIでパネルを表示するときはshortcut_keysのアイコンを右クリックしてCreate Contorolを選択して接続するとメインパネル上に表示できます。</P>
+<P>メインVIでパネルを表示するときはshortcut_keysのアイコンを右クリックしてCreate Contorolを選択して接続すると</p>
+<p>メインパネル上に表示できます。</P>
 <p>サブVIで使用の時現状ポップアップは表示しません。サブVIをクリックしてshortcut_keys単体で起動させてください</p>
 <p>メインVIでポップアップさせるにはイベントストラクチャを設定してください。</p>
 
