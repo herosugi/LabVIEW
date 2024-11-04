@@ -45,7 +45,7 @@ LabVIEWを使い始めました基本的なことをここにまとめます
 ![スクリーンショット 2024-11-04 004239](https://github.com/user-attachments/assets/2703fb61-50aa-4f25-ac69-51569ab6ad93)
 
 ## slide
-<p>Express内のNum  Ctrlsのアイコンの動きを知るためのVIです。
+<p>フロントパネルのExpress内のNum  Ctrlsのアイコンの動きを知るためのVIです。
 DBL（少数を含む）とi32（整数）２種類の型で動きが確認できます。
 ループカウンターの中で実行する作りになっています。
 プログラム終了したい場合STOPボタンを押してください</p>
@@ -56,5 +56,10 @@ DBL（少数を含む）とi32（整数）２種類の型で動きが確認で�
 
 ![スクリーンショット 2024-11-04 121713](https://github.com/user-attachments/assets/cff856fd-ef07-4785-aab2-f7b8d291d453)
 
+## indicator
+<p>フロントパネルのExpress内のNum  lndsのアイコンの動きを知るためのVIです。
+DBL（少数を含む）とi32（整数）２種類の型で表示確認できます。
+プログラム終了したい場合STOPボタンを押してください</p>
 
+![スクリーンショット 2024-11-04 133600](https://github.com/user-attachments/assets/4bc8d39b-6fbc-465c-a3e7-9837d1a02d36)
 
